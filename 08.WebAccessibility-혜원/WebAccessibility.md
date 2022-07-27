@@ -49,9 +49,10 @@
 -   정보 전달 또는 컨텐츠 구분에 색상만을 이용해서는 안 됨
 -   선택, 포커스, 호버되는 영역은 색상 변경 이외에 굵기 변경, 테두리, 밑줄 등의 다른 방법으로도 구분되게 해야 함
 -   차트의 항목을 색상 대신 다른 방법으로도 구분할 수 있도록 다양한 방법을 제공해야 함
-    <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/13047afb-c4ec-4032-aecf-7d5d32caab87/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220706%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220706T134757Z&X-Amz-Expires=86400&X-Amz-Signature=c1388ca3565e4c186b77e9a96b31288ebc32b15da4710512994e039e7aca5ed2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" />
 
-    색맹 환자가 흑백으로 색을 보지는 않지만, 아무튼 20대와 40대 항목은 구분이 어려워짐
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/13047afb-c4ec-4032-aecf-7d5d32caab87/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220727%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220727T030646Z&X-Amz-Expires=86400&X-Amz-Signature=b15d400f494c2051ae2386391b0e7181fb1901bc639054b5b9e91b1dd9356a02&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" />
+
+색맹 환자가 흑백으로 색을 보지는 않지만, 아무튼 20대와 40대 항목은 구분이 어려워짐
 
 ### 3.1.4. 고대비
 
@@ -86,7 +87,7 @@
 -   tab으로 포커스를 바꿀 때 포커스가 향하는 순서는 기본적으로는 논리적인 순서인 좌→우, 상→하 순이어야 함
 -   무조건 보여지는 순서에 의존해서는 안 되며, 사용자 입장에서 편리한 의미적인 순서여야 함
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b2d1aa00-b6fb-4d3f-a5e2-456cb6b4542e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220706%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220706T135139Z&X-Amz-Expires=86400&X-Amz-Signature=ae70b4e30d70896a1f4e8b5849c756a7f0aace12776c9ab021ba8e28157b3d19&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" />
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b2d1aa00-b6fb-4d3f-a5e2-456cb6b4542e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220727%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220727T030604Z&X-Amz-Expires=86400&X-Amz-Signature=b00149ca7fa233d2758963e47227c8997285986c34793fd9651cfd05ecb24822&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" />
 
 의미적인 순서가 중요
 
