@@ -9,3 +9,4 @@
 6. 도희 - UI & UX
 7. 다희 - [아토믹 디자인과 Storybook](https://www.figma.com/file/deLmwUae8pNu3wRrOdyL0z/Storybook?node-id=2%3A334)
 8. 혜원 - [웹 접근성](/08.WebAccessibility-혜원/WebAccessibility.md)
+9. 다희 - [ESLint와 Prettier](09.ESLint와_Prettier/ESLint.md)
