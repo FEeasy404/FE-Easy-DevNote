@@ -1,6 +1,6 @@
 # 1. UX / UI란?
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4c350a46-3368-488c-bb15-a8597a65febf/Untitled.png)
+![image](https://user-images.githubusercontent.com/102498600/182078791-8801a9b1-c2c3-4055-a697-44063b2089e4.png)
 
 - UX (User Experience)
 - UI (User Interface)
@@ -11,7 +11,7 @@ UX라는 용어를 처음 사용한 사람은 인지심리학자인 도널드 �
 
 UX 용어는 이렇게 태생부터 광범위한 의미를 담고 있다. 하지만 UI는 이와 달리 좁은 의미로 많이 사용한다. 일반적으로 PC나 스마트폰, 태블릿 같은 디바이스를 사용하는 화면상에서 발생하는 것을 칭하며, 페이지(Page) 레이아웃과 컬러, 폰트 같은 시각적인 디자인을 뜻한다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5d2a402-8dd6-4795-a5e0-a5d48166c06c/Untitled.png)
+![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5d2a402-8dd6-4795-a5e0-a5d48166c06c/Untitled.png)
 
 공원에 **다니기 편한 길(UI)** 을 만들어 두었으나
 
@@ -29,7 +29,7 @@ UX는 사용자의 경험에 대한 통계에 기반을 둔 개선 연구, UI는
 
 # 2. UX / UI 디자이너의 업무
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6fd1c109-cf09-4db3-bad7-ef001373a69f/Untitled.png)
+![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6fd1c109-cf09-4db3-bad7-ef001373a69f/Untitled.png)
 
 **UX 기획** : 사용자의 데이터로 문제점을 찾는다. 새로운 서비스를 제안하거나 수정 방향을 제시한다.
 **UI 디자인** : 사용하기 편리한 UI를 디자인하고 사용자와 서비스의 interaction 경험을 개선한다.
